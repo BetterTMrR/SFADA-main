@@ -10,6 +10,10 @@ Source Hypothesis".
 `pip install -r requirements.txt`
 
 
+## Data Preparation
+
+`Please download datasets: [Office-31](https://faculty.cc.gatech.edu/~judy/domainadapt/), [Office-Home](http://ai.bu.edu/visda-2017/), and [VisDA-C](http://ai.bu.edu/visda-2017/)'
+
 ## Training
 (1) Pre-train the source model on dataset office-31:
 
